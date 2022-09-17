@@ -1,6 +1,6 @@
 - 👋 Hi, I’m nikhil chavan
 - 👀 I’m interested in learning new skills and technologies
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently learning software development
 
 
 <!---
